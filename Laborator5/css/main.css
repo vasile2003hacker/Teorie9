@@ -1,0 +1,72 @@
+body{
+    margin: 50px;
+}
+
+.container {
+    margin: 0px 50px;
+    
+}
+.row{
+    font-size: 0;
+    margin: 30px 0;
+}
+
+.btn {
+    width: calc(100% / 6 - 4px);
+    padding: 9px 0;
+    color: white;
+    border-radius: 15px 15px 15px 0;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.btn-galben {
+    background-color: #ffc107;
+}
+
+.btn-verde {
+    background-color: green;
+}
+
+.btn-rosu {
+    background-color: red;
+}
+
+.btn-sur {
+    background-color: gray;
+}
+
+.btn-negru {
+    background-color: black;
+}
+
+.btn-albastru {
+    background-color: #007bff;
+}
+.continut{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-galben{
+    background-color: #ffc107;
+}
+.bg-albastru{
+    background-color: #007bff;
+}
+.bg-negru{
+    background-color: black;
+}
+.bg-rosu{
+    background-color: red;
+}
+.bg-verde{
+    background-color: green;
+}
+.bg-sur{
+    background-color: gray;
+}
+.text-white{
+    color: white;
+}
